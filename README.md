@@ -16,6 +16,6 @@
 - The third feature allows users to filter the dataset based on the alcohol content of the wines. This is useful because it allows users to   focus on wines within a specific alcohol range that they are interested in.
 
 ### Dataset
-The **wine**[https://vincentarelbundock.github.io/Rdatasets/csv/wooldridge/wine.csv] dataset used in this app was sourced from the following URL: https://vincentarelbundock.github.io/Rdatasets/csv/wooldridge/wine.csv. The app includes code to read the dataset and clean it up for use in the app.
+The **[wine](https://vincentarelbundock.github.io/Rdatasets/csv/wooldridge/wine.csv)** dataset used in this app was sourced from the following URL: https://vincentarelbundock.github.io/Rdatasets/csv/wooldridge/wine.csv. The app includes code to read the dataset and clean it up for use in the app.
 
 ### A link to a running instance of the Shiny app: https://stat545b.shinyapps.io/assignmentb3/
