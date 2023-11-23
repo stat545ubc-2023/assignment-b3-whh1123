@@ -1,0 +1,10 @@
+name: assignmentb3
+title:
+username: stat545b
+account: stat545b
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10608128
+bundleId: 7960047
+url: https://stat545b.shinyapps.io/assignmentb3/
+version: 1
